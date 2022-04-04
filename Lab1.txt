@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Low Jia Hee 202342_Lab1Q1</title>
+	<meta charset="UTF-8">
+</head>
+<body>
+	<a href="https://smp.upm.edu.my/smp/images/students/file409545?state=5241836645370727">
+	<center><img src="http://www.upm.edu.my/upload/dokumen/20170406143426UPM-New_FINAL.jpg" 
+	width="400" height="300"></center">
+	</a>
+
+	<center>
+	<table border="1" cellspacing="0" width="800" align="center" height="300">
+		<tr align="center">
+		<td colspan="3"><font size="4">MY PROFILE</font></td>
+		</tr>
+	
+		<tr>
+		<td colspan="2">img src="low jia hee.jpg"></td>
+		<td width="400"align="left" valign="top">
+
+		<p>
+		<strong>Name:</strong><em>Low Jia Hee</em><br/>
+		<strong>Matric number:</strong><em>202342</em><br/>
+		<strong>Phone number:</strong><em>01711234567</em><br/>
+		<strong>Program:</strong><em>Bachelor of Science Human Development with Information Technology</em><br/>
+		
+		</p>
+		</td>
+		</tr>
+		</td>
+		</tr>
+
+		<tr>
+		<tr align="center">
+		<td colspan="3"><font size="4">Home Page</font></td>
+		</p>
+		Home
+		Qualification
+		Work Experience
+		Languages
+		
+		<tr>
+		<td width="200">
+		
+
+
+
+		</td>
+		<td colspan="2">Main content</td>
+		</tr>
+
+		<tr>
+		<tr align="center">
+		<td colspan="3">Footer</td>
+		
+		</tr>
+
+
+
+<body style="margin-left:5%; margin-bottom: 60px; margin-right: 5%; font-family: sans-serif;">
+</table>
+</center>
+
+</body>
+</html>
